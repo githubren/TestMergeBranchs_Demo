@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         String f = "f";
 
         String master = "master";
+        String g = "g";
     }
 }
