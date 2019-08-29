@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         String e = "e";
         String f = "f";
 
+        String test_branch = "aaa";
+
         String master = "master";
         String g = "g";
     }
