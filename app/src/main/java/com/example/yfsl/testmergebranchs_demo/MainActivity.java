@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
         String i = "i";
 
         String k = "k";
+
+        String j = "j";
     }
 }
